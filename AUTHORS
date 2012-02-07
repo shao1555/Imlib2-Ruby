@@ -36,3 +36,6 @@ Chad Fowler <chad@chadfowler.com>
 OBATA Akio <obata@lins.jp>
 * NetBSD maintainer
 * patch to fix im_struct memory leak
+
+Sho Sawada <shao@thebitcellar.com>
+* patch for RSTRING(str)->len => RARRAY_LEN(str)
